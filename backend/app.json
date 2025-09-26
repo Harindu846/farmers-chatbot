@@ -1,0 +1,5 @@
+{
+    "name": "Farmers Chatbot Backend",
+    "description": "Backend for Sinhala Farmer Chatbot",
+    "keywords": ["python", "flask", "agriculture"]
+  }
